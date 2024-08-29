@@ -1,3 +1,3 @@
-[submodule "sitio-pasteleria-jesmarie"]
-    path = sitio-pasteleria-jesmarie
+[submodule "jesmarie-pasteleria"]
+    path = jesmarie-pasteleria
     url = https://github.com/CristianRivera03/jesmarie-pasteleria.git
